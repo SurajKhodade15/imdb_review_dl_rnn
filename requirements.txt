@@ -1,18 +1,18 @@
 # Core dependencies for IMDB RNN Sentiment Analysis
-tensorflow>=2.10.0
-numpy>=1.21.0
-pandas>=1.3.0
-matplotlib>=3.5.0
-seaborn>=0.11.0
-scikit-learn>=1.0.0
+tensorflow>
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
 
 # Streamlit app dependencies
-streamlit>=1.28.0
-plotly>=5.0.0
+streamlit
+plotly
 
 # Text processing
-textblob>=0.17.0
+textblob
 
 # Additional utilities
-Pillow>=9.0.0
-requests>=2.25.0
+Pillow
+requests
